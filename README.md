@@ -1,4 +1,6 @@
 # Description
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvishal-thenge%2FAltoroJ.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvishal-thenge%2FAltoroJ?ref=badge_shield)
+
 WARNING: This application contains security vulnerabilities. Run it only in a backed-up and sheltered environment (such as a VM with a recent snapshot and host-only networking) and at your own risk, escpecially if you enable some of the advanced options described below!
 
 AltoroJ is a sample banking J2EE web application. It shows what happens when web applications are written with consideration of app functionality but not app security. It's a simple and uncluttered platform for demonstrating and learning more about real-life application security issues.
@@ -60,3 +62,6 @@ OR modify Tomcat’s startup to include –Duser.home=“<new_path>” in Java a
 
 All files found in this project are licensed under the [Apache License 2.0](https://github.com/AppSecDev/AltoroJ/blob/master/LICENSE).
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvishal-thenge%2FAltoroJ.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvishal-thenge%2FAltoroJ?ref=badge_large)
